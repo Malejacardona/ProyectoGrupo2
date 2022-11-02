@@ -1,0 +1,23 @@
+/* Fuentes desde Google Fonts */
+/* Se copia el import de la fuente que se desea */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    /* Ocultar la barra de desplazamiento */
+    overflow-x: hidden;
+}
+
+/* Para que se aplique un estilo sobre un código de Bootstrap, debe ir la palabra "!important" */
+#menu{
+    background-color: #fff !important;
+} 
+
+.logo{
+    width: 100px;
+}
+
+/* alto de la imagen */
+.slideimg{
+    height: 560px;
+}
