@@ -21,3 +21,22 @@ body{
 .slideimg{
     height: 560px;
 }
+
+/* Noticias o novedades */
+#noticias{
+    background-color: rgb(3, 11, 72);
+}
+
+#noticias .titulo{
+    width: 100%;
+    color: #fff;
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.buy{
+    margin-left: 30%;
+}
