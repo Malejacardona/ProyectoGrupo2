@@ -40,3 +40,9 @@ body{
 .buy{
     margin-left: 30%;
 }
+
+/* Servicios */
+.services{
+    width: 180px;
+    height: 160px;
+}
