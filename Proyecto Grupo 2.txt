@@ -1,0 +1,2 @@
+GitHub: https://github.com/Malejacardona/ProyectoGrupo2.git
+Netlify: https://celebrated-lollipop-5b5da7.netlify.app/
